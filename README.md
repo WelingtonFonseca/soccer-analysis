@@ -107,4 +107,6 @@ soccer-analysis/
 Projeto desenvolvido como parte de formação prática em Ciência de Dados.
 
 **Welington Fonseca**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/welington-fonseca/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kkwelington7-cpu)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/kkwelington7-cpu)
