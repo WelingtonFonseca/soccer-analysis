@@ -25,7 +25,7 @@ Explorar os dados históricos de partidas de futebol europeu para responder perg
 
 ---
 
-## 🔍 O que foi analisado (EDA — Tabela Match)
+## 🔍 O que foi analisado (EDA Tabela Match)
 
 ### 1. Estrutura e limpeza dos dados
 - Seleção das colunas relevantes para análise
