@@ -45,6 +45,7 @@ Com as features prontas, serão testados modelos de classificação para prever 
 
 ## Tecnologias que utilizei
 
+
   Python 3
   Pandas e NumPy para manipulação de dados
   Matplotlib e Seaborn para visualizações
