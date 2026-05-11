@@ -43,7 +43,7 @@ Com as features prontas, serão testados modelos de classificação para prever 
 
 ---
 
-## Tecnologias utilizadas
+## Tecnologias que utilizei
 
   Python 3
   Pandas e NumPy para manipulação de dados
