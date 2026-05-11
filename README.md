@@ -18,11 +18,11 @@ A ideia central é: dado o histórico de dois times, é possível prever se o ma
 
 A EDA foi feita sobre a tabela de partidas, cruzando com a tabela de times para dar nome aos IDs. As principais análises foram:
 
-- Distribuição de gols por partida e por temporada
-- Comparação entre desempenho de mandante e visitante
-- Força ofensiva e defensiva por time, calculada como média de gols marcados e sofridos em casa e fora
-- Saldo médio de gols como métrica de desempenho geral
-- Ranking dos melhores e piores times com base nesse saldo
+  Distribuição de gols por partida e por temporada
+  Comparação entre desempenho de mandante e visitante
+  Força ofensiva e defensiva por time, calculada como média de gols marcados e sofridos em casa e fora
+  Saldo médio de gols como métrica de desempenho geral
+  Ranking dos melhores e piores times com base nesse saldo
 
 Um padrão já se confirma nos dados: times mandantes têm vantagem estatística clara, e os times de ponta sustentam saldo positivo tanto em casa quanto fora.
 
