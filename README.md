@@ -1,6 +1,6 @@
   Soccer Analysis  Previsão de Resultados de Partidas
 
-Projeto completo de Data Science aplicado ao futebol europeu, cobrindo Análise Exploratória de Dados (EDA), Feature Engineering e Machine Learning para prever o resultado de partidas.
+Projeto completo de Data Science aplicado ao futebol europeu, cobrindo Análise Exploratória de Dados, Feature Engineering e Machine Learning para prever o resultado de partidas.
 
 ---
 
