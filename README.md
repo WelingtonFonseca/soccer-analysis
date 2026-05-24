@@ -131,6 +131,15 @@ Principais Aprendizados
 
 ---
 
+ Insights da Análise
+
+ Times mandantes vencem 45,8% das partidas — jogar em casa é vantagem real
+ `diff_rating` é o fator mais preditivo: quanto maior a diferença de qualidade, maior a chance de vitória do favorito
+ Empate é o resultado mais imprevisível — F1 de 0.30 mesmo com modelo balanceado
+ Times ofensivos tendem a ser bons defensivamente (correlação de -0.60)
+ Habilidades técnicas importam mais que físico no rating dos jogadores
+ Modelos simples (Regressão Logística) superaram Random Forest e XGBoost — a relação entre features e resultado é predominantemente linear
+
 Tecnologias
 
   Python 3.12
@@ -155,4 +164,4 @@ Contém mais de 25.000 partidas de 11 ligas europeias entre 2008 e 2016, com dad
  Autor
 
 **Welington Fonseca**  
-[GitHub](https://github.com/WelingtonFonseca)
+https://www.linkedin.com/in/welington-fonseca
